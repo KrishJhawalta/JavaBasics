@@ -1,5 +1,7 @@
 package PraticeQ;
 public class practice7{
+
+  // multiplication table of a number
   public static void multiplication(int n){
   
     for(int i=1; i<=10; i++){
