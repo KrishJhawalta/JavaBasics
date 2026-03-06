@@ -1,3 +1,4 @@
+// only one public class is allowed in java file
 class employee{
     int id; 
     String name;
@@ -11,6 +12,5 @@ public class firstclass{
         James.id = 007;
         James.name = "James Bond";
         System.out.println(James.id);
-        System.out.println(James.name); // this will give an error because name is not initialized
-    }
-}
+        System.out.println(James.name); 
+}}
