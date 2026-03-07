@@ -28,6 +28,7 @@ public class firstclass{
         James.id = 007;                     
         James.name = "James Bond";  
         James.age = 30;  
+        James.salary = 100000;
 
         John.id = 81;
         John.age = 21;    
