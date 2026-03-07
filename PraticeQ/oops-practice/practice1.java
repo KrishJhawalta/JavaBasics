@@ -15,7 +15,7 @@ class Employee{
   
    }
 
-public class employee {
+public class practice1 {
     public static void main(String[]args){
 
         Employee emp1 = new Employee();
