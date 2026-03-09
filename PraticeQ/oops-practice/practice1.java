@@ -1,3 +1,4 @@
+// Q1: Crate a class cylinder and use getter & setter to sets its radius and height
 class cyllinder{
 private int radius;
 private int height;
