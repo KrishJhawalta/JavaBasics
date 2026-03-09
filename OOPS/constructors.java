@@ -26,7 +26,7 @@ class myEmployee{
 	
 }
 
-class Untitled {
+class constructors {
 	public static void main(String[] args) {
 		myEmployee emp1 = new myEmployee("Krish");
 		System.out.println(emp1.name);
