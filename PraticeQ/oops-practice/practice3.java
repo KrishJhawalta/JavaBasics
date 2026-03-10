@@ -3,12 +3,12 @@ class cylinder{
    private int radius;
    private int height;
    
-   public cylinder(int r, int h){  // constructor
+   public cylinder(int r, int h){  // constructor 
       radius = r;
       height = h;
    }
    
-   public void setRadius(int r){
+   public void setRadius(int r){      // SETTER
       radius = r;
    }
    
@@ -16,7 +16,7 @@ class cylinder{
       height =h;
    }
    
-   public int getRadius(){
+   public int getRadius(){    // GETTER
       return radius;
    }
    public int getHeight(){
@@ -31,7 +31,7 @@ class practice3{
       
       c1.setRadius(5);  // This is for change after construtor initilization
       c1.setHeight(2);  
-      System.out.println("Radius is: "+c1.getRadius());
+      System.out.println("Radius is: "+c1.getRadius());  // Printing values
       System.out.println("Height is: "+c1.getHeight());
       
    }
