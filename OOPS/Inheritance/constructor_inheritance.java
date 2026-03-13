@@ -1,11 +1,13 @@
+// class base 
 class base1{
-    base(){
+    base(){            // constructor 
         System.out.println("I am base constructor ");
     }
 }
 
+// class derived 
 class derived1 extends base1{
-    derived1(){
+    derived1(){         // constructor
         System.out.println("I am derived constructor");
     }
 }
