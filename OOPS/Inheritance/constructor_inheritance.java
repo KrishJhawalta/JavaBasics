@@ -13,8 +13,8 @@ class derived1 extends base1{
 }
 public class constructor_inheritance {
     public static void main(String[] args) {
-        base1 b = new base1();
         derived1 d = new derived1();
+
 
 
 
