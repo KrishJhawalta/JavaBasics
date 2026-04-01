@@ -1,5 +1,6 @@
 public class q5{
 
+    // calculaor using methods
     void calculator(int a, int b, char c){
         switch(c){
             case '+':
