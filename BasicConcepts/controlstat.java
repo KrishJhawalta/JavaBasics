@@ -30,7 +30,7 @@ public class controlstat{
              System.out.println(i);
          }
 
-         //Program to print first n odd numbers for loop
+         //Program to print first n odd numbers for loops
          for(int b=1;b<10;b++){
              System.out.println(b*2+1);
          }
