@@ -22,7 +22,7 @@ class guess{
 
     }
 }
-public class numguess {
+public class numgues{
     public static void main(String args[]) {
         guess g1 = new guess(5);
         int user = g1.getInp();

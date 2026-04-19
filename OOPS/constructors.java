@@ -22,8 +22,6 @@ class myEmployee{
 			name = na;
 		}
 	
-	
-	
 }
 
 class constructors {

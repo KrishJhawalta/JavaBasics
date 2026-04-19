@@ -2,7 +2,7 @@
 // Types : { Private , default, protected , public}
 
 
-class myEmployee{
+public class myEmployee{
 	private int id;     // Using this is not accessible directly by method property { We need to set value from another method}
 	private String name;
 	
