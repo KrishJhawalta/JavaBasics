@@ -120,7 +120,8 @@ This repository is created for learning purposes. Suggestions and improvements a
 
 ## 👨‍💻 Author
 
-**Krish Jhawalta**
+**Krish Jhawalta** 
+##
 
 - GitHub: https://github.com/KrishJhawalta
 
